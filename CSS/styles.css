@@ -1,0 +1,25 @@
+p1{
+  font: 120;
+  margin: auto;
+  font-family:"garamond";
+  color: aqua;
+  background-color: black;
+  text-decoration: underline;
+}
+body{
+
+  background-color:white;
+  color: black;
+  align-items: center;
+}
+p2{
+  text-decoration:unset;
+}
+ol{
+  margin: initial;
+  text-align: left;
+  text-decoration:solid;
+}
+p4{
+  text-decoration: turquoise;
+}
